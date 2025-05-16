@@ -1,11 +1,14 @@
-# Arena World
+#God Gaming World
 
-Myth Arena is an on-chain pvp strategy game on harmony netwpr that strongly utilized zero knowledge proof to ensure the credibility of players guesses and ensure that the game is not altered. 
-Players go in turns to try to guess the correct items (eggs) in the opponents rack. The first person to guess the correct order and items becomes the winner and is presented with an NFT. The core of the game is built and deployed on the blockchain with every guess made verified by the ZKproof.
+Step into the Arena of Legends — Where Strategy Meets Cryptographic Brilliance
 
-With a very cool user interface and a well thought out game play, Myth Arena promises to be an exciting game which you can play with friends and family.
+God's Arena is a groundbreaking on-chain PvP strategy game built on the Harmony network, harnessing the power of Zero-Knowledge Proofs (ZKPs) to deliver an uncheatable, fully transparent gaming experience.
 
-You can find the circuits, contracts and backend [here](https://github.com/Destiny-01/mythicals/tree/backend)
+In this high-stakes digital battlefield, players take turns attempting to decode their opponent’s secret rack of “eggs” — a mind game of precision, deduction, and luck. The first to crack the exact sequence claims victory and earns a unique, on-chain NFT trophy as proof of their triumph.
+
+Every move, every guess, and every win is cryptographically verified on the blockchain, ensuring absolute integrity and zero room for manipulation. The core logic lives entirely on-chain, with ZKPs acting as the guardian of fairness.
+
+With an intuitive interface and thrilling gameplay designed for competitive fun, Myth Arena isn’t just a game — it’s a new dimension of decentralized entertainment you can enjoy with friends, family, or worthy online rivals.
 
 Stack
 
